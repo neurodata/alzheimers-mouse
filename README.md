@@ -57,3 +57,4 @@ See [the docs](https://github.com/neurodata/alzheimers-mouse/main/docs) for inst
 
 # Citation
 
+We encourage the repurposing of our code and insights for subsequent works. Please cite according to the enclosed [citation.bib](./citation.bib).
