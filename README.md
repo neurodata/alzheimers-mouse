@@ -27,8 +27,8 @@ There are no effective cures for Alzheimer’s disease (AD), which is usually de
 
 The analyses for this work require only a standard computer with enough RAM to store and analyze the mouse volume and texture covariance matrices in memory. Our analysis was performed with a computer with the following specs:
 
-RAM: 32 GB
-CPU: 8 hyper-threaded cores (16 threads), 3.0 GHz/thread
+- RAM: 32 GB
+- CPU: 8 hyper-threaded cores (16 threads), 3.0 GHz/thread
 
 Analyses were performed on a MAC laptop (Ventura 13.1), with python version `3.11.2`. 
 
