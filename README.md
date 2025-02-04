@@ -54,7 +54,7 @@ This will set up the project within your virtual environment using the [pyprojec
 
 # Results and Figure Reproduction
 
-See [the docs](https://github.com/neurodata/alzheimers-mouse/main/docs) for instructions to reproduce figures from Bridgeford et al. (2025). 
+See [exploratory](./exploratory) and [analyses](./analyses) for instructions to reproduce figures from Bridgeford et al. (2025). 
 
 # Citation
 
