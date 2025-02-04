@@ -1,3 +1,5 @@
+## Exploratory Analyses and Data Post-Processing
+
 This folder contains two files:
 
 - [Figure2.ipynb](./Figure2.ipynb): conducts exploratory analyses of the difference matrices for volume and FA of the mouse connectomes.
