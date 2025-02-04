@@ -18,8 +18,8 @@ There are no effective cures for Alzheimer’s disease (AD), which is usually de
 
 # Repo Contents
 - [data](./data): Pre- and post-processed data from the mice.
-- [docs](./exploratory): Notebooks for visualizing and pre-processing the data.
-- [docs](./analyses): Notebooks for processing the data.
+- [exploratory](./exploratory): Notebooks for visualizing and pre-processing the data.
+- [analyses](./analyses): Notebooks for processing the data.
 - [figures](./figures): exploratory figures and figures describing our methodological contributions.
 - [pkg](./pkg): A mini python package comprising useful helper functions for plotting.
 - [results](./results): Figures and summary tables produced via statistical inference of mouse data.
